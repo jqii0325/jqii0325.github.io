@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>个人博客常用命令</title>
+      <link href="/2020/05/04/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+      <url>/2020/05/04/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="创建新文件"><a href="#创建新文件" class="headerlink" title="创建新文件"></a>创建新文件</h1><p>hexo new “文件名”</p><h1 id="清理缓存"><a href="#清理缓存" class="headerlink" title="清理缓存"></a>清理缓存</h1><p>hexo clean</p><h1 id="生成PUBLIC-打包上传"><a href="#生成PUBLIC-打包上传" class="headerlink" title="生成PUBLIC(打包上传)"></a>生成PUBLIC(打包上传)</h1><p>hexo g</p><h1 id="上传到GitHub"><a href="#上传到GitHub" class="headerlink" title="上传到GitHub"></a>上传到GitHub</h1><p>hexo s</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> noob </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人博客</title>
+      <link href="/2020/05/04/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2020/05/04/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p>#网站搭建</p><h2 id="安装hexo所需要的东西"><a href="#安装hexo所需要的东西" class="headerlink" title="安装hexo所需要的东西"></a>安装hexo所需要的东西</h2><p><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3454365904,3057522847&fm=26&gp=0.jpg" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试</title>
       <link href="/2020/05/03/%E6%B5%8B%E8%AF%95/"/>
       <url>/2020/05/03/%E6%B5%8B%E8%AF%95/</url>
